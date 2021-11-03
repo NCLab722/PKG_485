@@ -1,5 +1,5 @@
 # PKG_485
-We work for build a real 5G platform with O-RAN architecture, Kubernetes, SONiC and Intel Tofino P4 Chip. Realize network resource allocation method by O-RAN RAN Intelligent Controller to rise the network resource utiliztion. Using Kubernetes to monitor and analyze resource usage on Server Switch to load balancing. Develop P4 application to control the network topology and modify routing table to short packt transmission path and avoid error.
+We work to build a real 5G platform with O-RAN architecture, Kubernetes, SONiC, and Intel Tofino P4 Chip. Realize network resource allocation method by O-RAN RAN Intelligent Controller to rise the network resource utilization. Using Kubernetes to monitor and analyze resource usage on Server Switch to load balancing. Develop P4 application to control the network topology and modify routing table to short packet transmission path and avoid error.
 
 # Project Development
 1. Server Switch as Kubernetes Worker Node (SONiC OS)
